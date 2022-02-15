@@ -1,0 +1,4 @@
+body{
+    background-image: url('../img/BackgroundFront.png'),url('../img/BackgroundBack.png');
+    background-size: 100% 250px;
+}

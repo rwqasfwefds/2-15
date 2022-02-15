@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h3{
+    margin: 20px;
+}
+ul{
+    width: 430px;
+    border: solid 1px black;
+    margin: 20px;
+}
+li{
+    list-style: none;
+    padding-bottom: 10px;
+    margin: 15px;
+    border-bottom: dashed 1px gray;
+}
